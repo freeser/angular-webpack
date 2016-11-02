@@ -1,4 +1,4 @@
-# angular-webpack
+# angular2-webpack
 
 ### npm 安装问题
 
@@ -8,6 +8,6 @@ npm install，因为要去github.com上下载二进制源码，众所周知的�
 
 打开~/.npmrc（windows用户打开 c:\Users\当前用户名\.npmrc）增加一行(如果当前用户下面没有.npmrc文件，可以把项目里面的.npmrc文件拷贝进去)
 
-> 1. SASS_BINARY_SITE=https://npm.taobao.org/mirrors/node-sass/
+>     SASS_BINARY_SITE=https://npm.taobao.org/mirrors/node-sass/
 
 npm install 之后就可以了。
